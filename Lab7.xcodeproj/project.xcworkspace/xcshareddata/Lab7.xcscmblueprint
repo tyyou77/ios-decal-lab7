@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "51713AEDFEDFE2EBF39F5D7EAD411F584831F0D6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "51713AEDFEDFE2EBF39F5D7EAD411F584831F0D6" : 9223372036854775807,
+    "9AC40490CE743582AEC2E60A0540FED5D8C6159A" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E7D6D321-2749-468C-AA1B-0C7EE4FB8618",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "51713AEDFEDFE2EBF39F5D7EAD411F584831F0D6" : "ios-decal-lab7\/",
+    "9AC40490CE743582AEC2E60A0540FED5D8C6159A" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Lab7",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Lab7.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tyyou77\/ios-decal-lab7.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "51713AEDFEDFE2EBF39F5D7EAD411F584831F0D6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/tyou77\/ios-decal.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9AC40490CE743582AEC2E60A0540FED5D8C6159A"
+    }
+  ]
+}
