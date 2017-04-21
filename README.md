@@ -45,4 +45,4 @@ To submit, please upload your code to either GitHub or Bitbucket, and use the "G
 
 Checkoff Form for  Akilesh's Lab - https://goo.gl/forms/0x2P8vpGRWar7nIX2
 
-Checkoff Form for Paige's Lab - https://goo.gl/forms/Jn8riB5xl0WQWAYQ2
+Checkoff Form for Paige's Lab - https://goo.gl/forms/pyEZRbaMXjTnFgas2
